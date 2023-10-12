@@ -64,6 +64,7 @@ void Ex7() {
 //question 4 = a
 //question 5 = c
 int main() {
+	// uncoment the void that you want to run. 
 	//Ex1();
 	//Ex2();
 	//Ex3();
